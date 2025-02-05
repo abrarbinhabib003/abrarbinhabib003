@@ -1,4 +1,42 @@
-# Hi, I'm Abrar Bin Habib 👋
+<h1 align="center">Hi there, I'm Abrar Bin Habib 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <br>
+  <img src="https://github.com/AbrarBinHabib/AbrarBinHabib/raw/main/banner.png" alt="Abrar Bin Habib Banner" width="100%">
+</p>
+
+<h3 align="center">🚀 Frontend Developer | Aspiring Ethical Hacker & Penetration Tester</h3>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,java,c,javascript,Burpsuit" alt="Tech Stack" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://github.com/AbrarBinHabib"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrarbinhabib003&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+
+---
+
+## 🎯 Fact : 
 
 - 🎓 **Computer Science and Engineering student** at **East West University**
 - 🎒 Completed **HSC**  at **Dhaka City College**
@@ -7,7 +45,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abrarbinhabib003&theme=dark)](https://git.io/streak-stats)
 
-![abrarbinhabib003's Stats](https://github-readme-stats.vercel.app/api?username=abrarbinhabib003&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
   ![abrarbinhabib003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarbinhabib003&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
