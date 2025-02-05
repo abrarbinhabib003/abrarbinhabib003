@@ -5,7 +5,7 @@
 - 💻 Learning **MERN stack** development
 - 🛡️ Aspiring to delve into the world of **Cybersecurity**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abrarbinhabib003&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abrarbinhabib003&theme=dark)](https://git.io/streak-stats)
 
 ![abrarbinhabib003's Stats](https://github-readme-stats.vercel.app/api?username=abrarbinhabib003&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
