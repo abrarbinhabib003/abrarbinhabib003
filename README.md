@@ -4,6 +4,12 @@
 - 🎒 Completed **HSC**  at **Dhaka City College**
 - 💻 Learning **MERN stack** development
 - 🛡️ Aspiring to delve into the world of **Cybersecurity**
+
+  
+![abrarbinhabib003's Stats](https://github-readme-stats.vercel.app/api?username=abrarbinhabib003&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+  ![abrarbinhabib003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarbinhabib003&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
   
 ### 🚀 Skills & Tools:
 - **Frontend:** HTML, CSS, JavaScript, React.js
