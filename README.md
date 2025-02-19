@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm Abrar Bin Habib 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" ">
   <br>
-  <img src="https://i.ibb.co/gbVxXTjt/Abrar-Bin-Habib.png" alt="Abrar Bin Habib Banner" width="100%">
+  <img src="https://i.ibb.co.com/0yH8vfM6/Abrar-Bin-Habib-Banner.png" alt="Abrar Bin Habib Banner" width="100%">
 </p>
 
 <h3 align="center">🚀 Frontend Developer | Aspiring Ethical Hacker & Penetration Tester</h3>
