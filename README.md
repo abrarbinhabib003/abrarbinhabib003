@@ -53,8 +53,9 @@
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+- **Authentication:** Firebase
 - **Version Control:** Git & GitHub
-- **Other Interests:** Ethical hacking, network security,Penetration Testing
+- **Other Interests:** Ethical hacking, Network security,Penetration Testing, Capture The Flag!
 
 ### 🌱 Currently Learning:
 - Advanced **MERN stack** concepts
@@ -64,7 +65,7 @@
 - Master **MERN stack** development
 - Become a **Cybersecurity Analyst** or **Ethical Hacker**
   
-Feel free to explore my repositories and reach out for collaborations or discussions on MERN stack, web development, or cybersecurity!
+Feel free to explore my repositories and reach out for collaborations or discussions on MERN stack, Web Development, or Cybersecurity!
 
 
 
