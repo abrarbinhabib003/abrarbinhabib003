@@ -2,11 +2,11 @@
 <h1 align="center">Hi there, I'm Abrar Bin Habib 👋</h1>
 
 <p align="center">
-
-  <img src="https://i.ibb.co.com/0yH8vfM6/Abrar-Bin-Habib-Banner.png" alt="Abrar Bin Habib Banner" width="100%">
+<img src="https://i.ibbextra.co.com/0yH8vfM6/Abrar-Bin-Habib-Banner.png" alt="Abrar Bin Habib Banner" width="100%">
 </p>
 
-<h3 align="center">🚀 Frontend Developer | Aspiring Ethical Hacker & Penetration Tester</h3>
+
+<h3 align="center">🚀 Junior Frontend Developer | Cyber Security Researcher </h3>
 
 ---
 
